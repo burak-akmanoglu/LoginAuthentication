@@ -1,0 +1,16 @@
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\bin\Debug\netcoreapp3.1\DataAccesLayer.deps.json
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\bin\Debug\netcoreapp3.1\DataAccesLayer.runtimeconfig.json
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\bin\Debug\netcoreapp3.1\DataAccesLayer.runtimeconfig.dev.json
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\bin\Debug\netcoreapp3.1\DataAccesLayer.dll
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\bin\Debug\netcoreapp3.1\DataAccesLayer.pdb
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.AssemblyInfo.cs
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.csproj.CopyComplete
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.dll
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.pdb
+C:\Users\Burak\source\repos\LoginAuthentication\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.genruntimeconfig.cache

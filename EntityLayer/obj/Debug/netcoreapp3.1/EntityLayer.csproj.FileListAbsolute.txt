@@ -1,0 +1,13 @@
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.runtimeconfig.json
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.runtimeconfig.dev.json
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\Burak\source\repos\LoginAuthentication\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.genruntimeconfig.cache
